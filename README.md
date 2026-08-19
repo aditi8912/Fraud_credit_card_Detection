@@ -58,7 +58,7 @@ but the consistency across two independent methods (correlation + tree importanc
 in these signals.
 
 ## Dashboard
-![Dashboard](<img width="1919" height="1023" alt="Dashboard" src="https://github.com/user-attachments/assets/e1f3a045-641d-4873-b5e5-6bef4f107272" />
+(<img width="1919" height="1023" alt="Dashboard" src="https://github.com/user-attachments/assets/e1f3a045-641d-4873-b5e5-6bef4f107272" />
 
 
 Interactive Tableau workbook included: `Charts.twbx` (open in Tableau Desktop or Tableau Public Desktop)
